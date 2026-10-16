@@ -1,0 +1,4 @@
+# Pack files are integrity-checked by SHA-256 in the app. Never rewrite line
+# endings, or the raw bytes served by GitHub would stop matching the catalog
+# hashes and downloads would fail verification.
+* -text
