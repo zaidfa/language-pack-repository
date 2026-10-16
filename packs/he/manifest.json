@@ -1,0 +1,36 @@
+{
+  "bytes": 3370,
+  "cased": false,
+  "direction": "rtl",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1174,
+      "name": "layout.json",
+      "sha256": "53071007e493d75dadb16a49ccf89c4ec3dba05fa0b2cf20830b9a5f757da633"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "909ea3b05a7b28d98ae6cb8932932499b0557e8838f63fe1c93e556bb88883c6"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Hebrew",
+    "native": "עברית"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Hebr",
+  "sha256": "016a463da4fc796ad879867fafe3b2e49d0546cdbd0c72a3cab1c4a6734bebed",
+  "tag": "he"
+}

@@ -1,0 +1,36 @@
+{
+  "bytes": 3957,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1761,
+      "name": "layout.json",
+      "sha256": "5f73a3336b7aa47f0fc322daf40ac95995c032d2c13e6f883bda1d99d0e9c5ca"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "949bbd8fc93ba6cefb97bcff4c443b842dfad6fe2c76e4093e60410f03bb1688"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Welsh",
+    "native": "Cymraeg"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "e299be6d06cdaecd2bf8c0212aaa68f2766c09c02e683a5ac9cd7fbdf513b4f6",
+  "tag": "cy"
+}

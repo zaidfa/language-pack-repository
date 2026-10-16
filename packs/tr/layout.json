@@ -1,0 +1,113 @@
+{
+  "cased": true,
+  "direction": "ltr",
+  "inputMethod": "direct",
+  "layers": {
+    "default": [
+      [
+        "q",
+        "w",
+        "e",
+        "r",
+        "t",
+        "y",
+        {
+          "hold": [
+            "ü"
+          ],
+          "o": "u"
+        },
+        {
+          "hold": [
+            "ı"
+          ],
+          "o": "i"
+        },
+        {
+          "hold": [
+            "ö"
+          ],
+          "o": "o"
+        },
+        "p"
+      ],
+      [
+        "a",
+        {
+          "hold": [
+            "ş"
+          ],
+          "o": "s"
+        },
+        "d",
+        "f",
+        {
+          "hold": [
+            "ğ"
+          ],
+          "o": "g"
+        },
+        "h",
+        "j",
+        "k",
+        "l"
+      ],
+      [
+        {
+          "code": "SHIFT",
+          "l": "⇧",
+          "w": 1.5
+        },
+        "z",
+        "x",
+        {
+          "hold": [
+            "ç"
+          ],
+          "o": "c"
+        },
+        "v",
+        "b",
+        "n",
+        "m",
+        {
+          "code": "DELETE",
+          "l": "⌫",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "code": "SYMBOLS",
+          "l": "?123",
+          "w": 1.5
+        },
+        {
+          "code": "LANG",
+          "l": "🌐"
+        },
+        {
+          "code": "EMOJI",
+          "l": "☺"
+        },
+        ",",
+        {
+          "code": "SPACE",
+          "l": "",
+          "o": " ",
+          "w": 4
+        },
+        ".",
+        {
+          "code": "ENTER",
+          "l": "⏎",
+          "w": 1.5
+        }
+      ]
+    ]
+  },
+  "layoutType": "direct",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "tag": "tr"
+}

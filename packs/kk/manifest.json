@@ -1,0 +1,36 @@
+{
+  "bytes": 4302,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 2106,
+      "name": "layout.json",
+      "sha256": "2586a6f20e29cf77ab1208db2251cee998434d970a9d1d2ec58a4d1f3d57b2d4"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "b0ba900d30b5c0d80b694c9e5021163431a283a5903aa4a526743d6bc92d6bda"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Kazakh",
+    "native": "Қазақ"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Cyrl",
+  "sha256": "ed2224e5ae4180cefea81f89ab22f339f731a78eb0d3c13d9e7e53799535188d",
+  "tag": "kk"
+}

@@ -1,0 +1,36 @@
+{
+  "bytes": 4265,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 2069,
+      "name": "layout.json",
+      "sha256": "b875b7bcd082dfd816074687699b2df8c8f3b101403272d5f1521183a0cebc0a"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "f32460cbb3a9764ba1891c6799e51da5bcd8055fc5275b515a2632f5b9ff4243"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Latvian",
+    "native": "Latviešu"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "5c757ff97ce41651abcf1430308f761b90be55d7d814f52feb377e9ff0b11037",
+  "tag": "lv"
+}

@@ -1,0 +1,36 @@
+{
+  "bytes": 3893,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1697,
+      "name": "layout.json",
+      "sha256": "980dbfd5b7246b19dc48795c237dba8e4f305381290ed528c09de2c70e9e0d75"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "8eb261222c8c120fd55fb73713e73a2aeed71ce0d0605fafd4924a25f7868071"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Afrikaans",
+    "native": "Afrikaans"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "c89acc06f6d17ee026dfe86a8f9face770ac4f71c11d98c155b00f9c38f9537d",
+  "tag": "af"
+}

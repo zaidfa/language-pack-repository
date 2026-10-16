@@ -1,0 +1,109 @@
+{
+  "cased": false,
+  "direction": "ltr",
+  "inputMethod": "direct",
+  "layers": {
+    "default": [
+      [
+        "ঔ",
+        "ঐ",
+        "আ",
+        "ঈ",
+        "ঊ",
+        "ব",
+        "হ",
+        "গ",
+        "দ",
+        {
+          "hold": [
+            "জ্ঞ"
+          ],
+          "o": "জ"
+        },
+        {
+          "hold": [
+            "ড়",
+            "ঢ়"
+          ],
+          "o": "ড"
+        }
+      ],
+      [
+        "ও",
+        "এ",
+        "অ",
+        "ি",
+        "ু",
+        "প",
+        {
+          "hold": [
+            "ড়",
+            "ঢ়"
+          ],
+          "o": "র"
+        },
+        {
+          "hold": [
+            "ক্ষ"
+          ],
+          "o": "ক"
+        },
+        "ত",
+        "চ",
+        "ট"
+      ],
+      [
+        "ং",
+        "ম",
+        "ন",
+        "ল",
+        {
+          "hold": [
+            "ঃ"
+          ],
+          "o": "স"
+        },
+        "শ",
+        "ষ",
+        {
+          "code": "DELETE",
+          "l": "⌫",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "code": "SYMBOLS",
+          "l": "?123",
+          "w": 1.5
+        },
+        {
+          "code": "LANG",
+          "l": "🌐"
+        },
+        {
+          "code": "EMOJI",
+          "l": "☺"
+        },
+        ",",
+        {
+          "code": "SPACE",
+          "l": "",
+          "o": " ",
+          "w": 4
+        },
+        ".",
+        {
+          "code": "ENTER",
+          "l": "⏎",
+          "w": 1.5
+        }
+      ]
+    ]
+  },
+  "layoutType": "complex",
+  "note": "Direct Unicode entry; conjuncts/matras shaped by Android text engine.",
+  "schemaVersion": 1,
+  "script": "Beng",
+  "tag": "bn"
+}

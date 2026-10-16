@@ -1,0 +1,36 @@
+{
+  "bytes": 3983,
+  "cased": false,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1767,
+      "name": "layout.json",
+      "sha256": "8bfa128472e942a0ac4e2adb4198d0d34e93c8dfe2cb3adb5c09d1d4bba6c887"
+    },
+    {
+      "bytes": 2216,
+      "name": "symbols.json",
+      "sha256": "fa821a9f8d88fd51fd4ce68a518d1ed6d2f8cd90b92b53eaff18dc464f55f5a9"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "complex",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Bangla",
+    "native": "বাংলা"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Beng",
+  "sha256": "45109fb83afe7995a7b013eee27f4d7e7879ea3032cd9d2e1358814112f6900a",
+  "tag": "bn"
+}

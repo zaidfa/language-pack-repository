@@ -1,0 +1,36 @@
+{
+  "bytes": 4550,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 2354,
+      "name": "layout.json",
+      "sha256": "7597c6a4874e5cba48cd45eb0f03e47607b0f8c6e22d45129c52473a56162759"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "cef3698b75820ab2bfaed2151bf0c724794e67f8059311ff64f6497a581e64c6"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Slovak",
+    "native": "Slovenčina"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "dc87e23416b7a9444bbab4e3cbf4d2a7f1e210bb4edbbb902b7341596561b219",
+  "tag": "sk"
+}

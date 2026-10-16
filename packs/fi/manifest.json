@@ -1,0 +1,36 @@
+{
+  "bytes": 3590,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1394,
+      "name": "layout.json",
+      "sha256": "ec8eeb97bc3a15238805dd59d6b664946e332a13c5ef19d8963d0294074a332f"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "4a58e7b6d642b728b537252b57ded0ae10c258ba3a225eb4933c54551f9ad619"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Finnish",
+    "native": "Suomi"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "eb8fc62d843e664a08d1cf39990a87fbfecdf263a355a8321f74421ea5987d30",
+  "tag": "fi"
+}

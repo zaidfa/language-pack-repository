@@ -1,0 +1,36 @@
+{
+  "bytes": 3744,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1548,
+      "name": "layout.json",
+      "sha256": "c9076c6485e7c90bbc815812c29e5975d22c6c85d82aa2579f48be9bc8517b31"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "c20c7cfc247c430dd60c1dba751171b69493ec8334f2759cb60c9add44852f59"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Croatian",
+    "native": "Hrvatski"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "7f6d7a796c7850d9604ea9525e9791513bd912db926b6663d4b94f89f4a4759e",
+  "tag": "hr"
+}

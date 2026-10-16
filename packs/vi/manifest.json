@@ -1,0 +1,36 @@
+{
+  "bytes": 5082,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 2886,
+      "name": "layout.json",
+      "sha256": "fd615200513c7628723f6cf42d2dfbae2eada9a09953db5e6f11fb65f3cbae83"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "d101ade495e8d0f3b5daf92482aa8762063584e21f043d2a0a776b8b2c03ca7f"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Vietnamese",
+    "native": "Tiếng Việt"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "8406f1133c0d2741f92f0d367e6af99426cc0d0223a18b156b2ece82d88522b2",
+  "tag": "vi"
+}

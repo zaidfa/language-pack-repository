@@ -1,0 +1,36 @@
+{
+  "bytes": 3821,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1625,
+      "name": "layout.json",
+      "sha256": "d866dd56db753b53441e87070956dfe3875e5544c27c599e053215cfe0f2c4c2"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "e5529f1658365a1606c5722caeeb7265128b7e047a5e9be23547601007ea431b"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Estonian",
+    "native": "Eesti"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "077ad7b416b06d524a0df8f93301e6784f65074101aa025fa9b1ec55cf9af8dd",
+  "tag": "et"
+}

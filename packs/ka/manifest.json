@@ -1,0 +1,36 @@
+{
+  "bytes": 3928,
+  "cased": false,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1732,
+      "name": "layout.json",
+      "sha256": "e4030298111330615b49af77f17ac538dfa7336d28f3dcc665af601be60f29e3"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "9ce789e7cfe6b0258630438a8929c6d26dc42407960fe9c6b72d1ec9978164e3"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Georgian",
+    "native": "ქართული"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Geor",
+  "sha256": "18cd1cc1329eeeb69747f7711a64a5f2db05daf9200a28f99c6ac2f5f7a4c7f2",
+  "tag": "ka"
+}

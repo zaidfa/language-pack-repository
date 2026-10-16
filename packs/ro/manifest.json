@@ -1,0 +1,36 @@
+{
+  "bytes": 3744,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1548,
+      "name": "layout.json",
+      "sha256": "15f42fd859822647e1f0ca28239b3ec41ec789244087cc56cdf04c89f5f85a10"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "b817de67a45b75f40be721c237eefe33ee6a789cb8acba9515cb1c817ddb700a"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Romanian",
+    "native": "Română"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "9dc4b810378e5b7cb3ebb932ff4fcf86d86423e14f929f4b3c9c00696a4f7699",
+  "tag": "ro"
+}

@@ -1,0 +1,83 @@
+{
+  "cased": false,
+  "direction": "ltr",
+  "inputMethod": "direct",
+  "layers": {
+    "default": [
+      [
+        "ौ",
+        "ै",
+        "ा",
+        "ी",
+        "ू",
+        "ब",
+        "ह",
+        "ग",
+        "द",
+        "ज",
+        "ड"
+      ],
+      [
+        "ो",
+        "े",
+        "्",
+        "ि",
+        "ु",
+        "प",
+        "र",
+        "क",
+        "त",
+        "च",
+        "ट"
+      ],
+      [
+        "ं",
+        "म",
+        "न",
+        "व",
+        "ल",
+        "स",
+        "य",
+        "भ",
+        {
+          "code": "DELETE",
+          "l": "⌫",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "code": "SYMBOLS",
+          "l": "?123",
+          "w": 1.5
+        },
+        {
+          "code": "LANG",
+          "l": "🌐"
+        },
+        {
+          "code": "EMOJI",
+          "l": "☺"
+        },
+        ",",
+        {
+          "code": "SPACE",
+          "l": "",
+          "o": " ",
+          "w": 4
+        },
+        ".",
+        {
+          "code": "ENTER",
+          "l": "⏎",
+          "w": 1.5
+        }
+      ]
+    ]
+  },
+  "layoutType": "complex",
+  "note": "Direct Unicode entry; conjuncts/matras shaped by Android text engine.",
+  "schemaVersion": 1,
+  "script": "Deva",
+  "tag": "ne"
+}

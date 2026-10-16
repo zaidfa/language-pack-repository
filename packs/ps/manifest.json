@@ -1,0 +1,36 @@
+{
+  "bytes": 3610,
+  "cased": false,
+  "direction": "rtl",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1402,
+      "name": "layout.json",
+      "sha256": "f3c32fbec56e8b825fe5206aaa90e7045e96cc099f783946eda37e56f4a12e19"
+    },
+    {
+      "bytes": 2208,
+      "name": "symbols.json",
+      "sha256": "16098a144ab9c8b66fae7b9516388ba00364b1de953019902ad6483f4fff5e4a"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Pashto",
+    "native": "پښتو"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Arab",
+  "sha256": "344a05c40bf1a4ba81788b20a2b4bd9d7a867f892973364db68a553ec36b30a8",
+  "tag": "ps"
+}

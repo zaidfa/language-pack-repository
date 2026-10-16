@@ -1,0 +1,36 @@
+{
+  "bytes": 3672,
+  "cased": false,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1456,
+      "name": "layout.json",
+      "sha256": "3d2414d2387ef05a0215b2ec2448b291c362f36e8ea5d489d6f6d3a25f396995"
+    },
+    {
+      "bytes": 2216,
+      "name": "symbols.json",
+      "sha256": "3a5cedca63412043307b5e1130372a8afc7bf87153a4e5ec043b6f5db0beaf14"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "complex",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Assamese",
+    "native": "অসমীয়া"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Beng",
+  "sha256": "c2a0b161dab1d9b2a918c35fa206f78c330e0effbb4ab11135bcada819e3ad96",
+  "tag": "as"
+}

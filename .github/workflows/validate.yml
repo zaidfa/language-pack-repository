@@ -1,0 +1,34 @@
+name: Validate language packs
+
+# Regenerates the catalog and packs, then runs the validator and the character
+# inventory test. Fails the build if any pack drifts from the trusted catalog,
+# a hash mismatches, Unicode is invalid, or an RTL/schema check fails.
+
+on:
+  push:
+    paths:
+      - "language-pack-repository/**"
+  pull_request:
+    paths:
+      - "language-pack-repository/**"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: language-pack-repository
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Regenerate catalog + packs
+        run: node scripts/generate.js
+      - name: Fail if regeneration changed committed packs
+        run: git diff --exit-code -- packs catalog schemas || (echo "Committed packs are stale — run scripts/generate.js and commit." && exit 1)
+      - name: Validate packs against trusted catalog
+        run: node scripts/validate.js
+      - name: Character inventory + Unicode test
+        run: node tests/character-inventory.js

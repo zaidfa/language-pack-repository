@@ -1,0 +1,92 @@
+{
+  "cased": false,
+  "direction": "ltr",
+  "inputMethod": "direct",
+  "layers": {
+    "default": [
+      [
+        "ঔ",
+        "ঐ",
+        "আ",
+        "ঈ",
+        "ঊ",
+        "ব",
+        "হ",
+        "গ",
+        "দ",
+        "জ",
+        "ড"
+      ],
+      [
+        "ও",
+        "এ",
+        "অ",
+        "ি",
+        "ু",
+        "প",
+        {
+          "hold": [
+            "ৱ"
+          ],
+          "o": "ৰ"
+        },
+        {
+          "hold": [
+            "ক্ষ"
+          ],
+          "o": "ক"
+        },
+        "ত",
+        "চ",
+        "ট"
+      ],
+      [
+        "ং",
+        "ম",
+        "ন",
+        "ল",
+        "স",
+        "শ",
+        "ষ",
+        {
+          "code": "DELETE",
+          "l": "⌫",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "code": "SYMBOLS",
+          "l": "?123",
+          "w": 1.5
+        },
+        {
+          "code": "LANG",
+          "l": "🌐"
+        },
+        {
+          "code": "EMOJI",
+          "l": "☺"
+        },
+        ",",
+        {
+          "code": "SPACE",
+          "l": "",
+          "o": " ",
+          "w": 4
+        },
+        ".",
+        {
+          "code": "ENTER",
+          "l": "⏎",
+          "w": 1.5
+        }
+      ]
+    ]
+  },
+  "layoutType": "complex",
+  "note": "Assamese ৰ/ৱ included; direct Unicode entry.",
+  "schemaVersion": 1,
+  "script": "Beng",
+  "tag": "as"
+}

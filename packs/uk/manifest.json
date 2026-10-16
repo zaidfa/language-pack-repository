@@ -1,0 +1,36 @@
+{
+  "bytes": 3668,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1472,
+      "name": "layout.json",
+      "sha256": "0a9352c5e7f226763b45c6f911fbcb067b909fd8237fbe45ad2619022ec324f4"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "617118d85ba97a17f30cd679650d6596c1b7a2945fa558499ef5cce052417cde"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Ukrainian",
+    "native": "Українська"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Cyrl",
+  "sha256": "cffd60e8bdd4c7d09a160505b1abee6cad5c331c3e4ac0d5c23e1a872983f759",
+  "tag": "uk"
+}

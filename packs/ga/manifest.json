@@ -1,0 +1,36 @@
+{
+  "bytes": 3803,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1607,
+      "name": "layout.json",
+      "sha256": "971b327c24e0a94363593101ad8a87cfa16c607e7fad783105b8b36eb86c1cd5"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "9e39d85277166d61953b33fdb508f00166a8afac81dbec367e15304b42848e97"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Irish",
+    "native": "Gaeilge"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "1acc1c81d076f4e1b42adad99711596143404b3a3f17433f75c8c0ba1ca4f02a",
+  "tag": "ga"
+}

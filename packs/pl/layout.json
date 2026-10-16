@@ -1,0 +1,124 @@
+{
+  "cased": true,
+  "direction": "ltr",
+  "inputMethod": "direct",
+  "layers": {
+    "default": [
+      [
+        "q",
+        "w",
+        {
+          "hold": [
+            "ę"
+          ],
+          "o": "e"
+        },
+        "r",
+        "t",
+        "y",
+        "u",
+        "i",
+        {
+          "hold": [
+            "ó"
+          ],
+          "o": "o"
+        },
+        "p"
+      ],
+      [
+        {
+          "hold": [
+            "ą"
+          ],
+          "o": "a"
+        },
+        {
+          "hold": [
+            "ś"
+          ],
+          "o": "s"
+        },
+        "d",
+        "f",
+        "g",
+        "h",
+        "j",
+        "k",
+        {
+          "hold": [
+            "ł"
+          ],
+          "o": "l"
+        }
+      ],
+      [
+        {
+          "code": "SHIFT",
+          "l": "⇧",
+          "w": 1.5
+        },
+        {
+          "hold": [
+            "ż",
+            "ź"
+          ],
+          "o": "z"
+        },
+        "x",
+        {
+          "hold": [
+            "ć"
+          ],
+          "o": "c"
+        },
+        "v",
+        "b",
+        {
+          "hold": [
+            "ń"
+          ],
+          "o": "n"
+        },
+        "m",
+        {
+          "code": "DELETE",
+          "l": "⌫",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "code": "SYMBOLS",
+          "l": "?123",
+          "w": 1.5
+        },
+        {
+          "code": "LANG",
+          "l": "🌐"
+        },
+        {
+          "code": "EMOJI",
+          "l": "☺"
+        },
+        ",",
+        {
+          "code": "SPACE",
+          "l": "",
+          "o": " ",
+          "w": 4
+        },
+        ".",
+        {
+          "code": "ENTER",
+          "l": "⏎",
+          "w": 1.5
+        }
+      ]
+    ]
+  },
+  "layoutType": "direct",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "tag": "pl"
+}

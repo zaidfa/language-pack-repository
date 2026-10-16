@@ -1,0 +1,36 @@
+{
+  "bytes": 3591,
+  "cased": false,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1375,
+      "name": "layout.json",
+      "sha256": "ae19c15b758d93aafe49280f3648a2b267c0389dcb06bf084455b963529bace7"
+    },
+    {
+      "bytes": 2216,
+      "name": "symbols.json",
+      "sha256": "5d3a1ee49b674acb81a746c31ecff4ff488fea15d8ce80e31cf9f28a97dd51fb"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "complex",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Thai",
+    "native": "ไทย"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Thai",
+  "sha256": "d2f9277963f4f794253abfd4c17a365dea4c0339986a3ec045dbf6a07f71cc4f",
+  "tag": "th"
+}

@@ -1,0 +1,36 @@
+{
+  "bytes": 3705,
+  "cased": false,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1489,
+      "name": "layout.json",
+      "sha256": "edb26fdc9718fbcc76615b149e2f48d12aca6702fd250eba0a22edab45e2d91d"
+    },
+    {
+      "bytes": 2216,
+      "name": "symbols.json",
+      "sha256": "70fb31a4b8c89fdd14d2e95c613b090771d42aca192d5482442cc5a7ec5165f2"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "complex",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Marathi",
+    "native": "मराठी"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Deva",
+  "sha256": "4e89ecd29f6524092a68e243e7f01f2168335246bf91e1973b584c353cdf9c9c",
+  "tag": "mr"
+}

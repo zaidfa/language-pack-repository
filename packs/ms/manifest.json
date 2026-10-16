@@ -1,0 +1,36 @@
+{
+  "bytes": 3418,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1222,
+      "name": "layout.json",
+      "sha256": "917b91066e132737a7b112a97d470bb8ac7648d21a5d7d9eac25ff079555c943"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "acc02ffbb704dfa6540f85b9497d9788a285b88cd6c00b89a5016bdb7a997ac2"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Malay",
+    "native": "Bahasa Melayu"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "7c89dd1f33c6649d9c0634fd0ad2eb5967211fe9993eadac78537334ccfa55e9",
+  "tag": "ms"
+}

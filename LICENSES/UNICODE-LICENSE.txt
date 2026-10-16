@@ -1,0 +1,15 @@
+UNICODE LICENSE V3 (summary / pointer)
+
+Copyright © 1991-present Unicode, Inc.
+
+This project uses factual reference data (BCP 47 language subtags, ISO 15924
+script codes, and script direction/endonym cross-checks) consistent with the
+Unicode Common Locale Data Repository (CLDR). The full, authoritative license
+text is published by Unicode, Inc. at:
+
+    https://www.unicode.org/license.txt
+
+The Unicode License permits use and redistribution of the data with the required
+copyright/permission notice. No bulk CLDR data files are redistributed here; only
+short factual identifiers and names are used. Retain this notice if you
+redistribute the catalog.

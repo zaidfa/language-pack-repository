@@ -1,0 +1,2055 @@
+{
+  "generatedAt": "2026-10-16T18:08:05.385Z",
+  "catalogVersion": "1.0.0",
+  "totals": {
+    "total": 264,
+    "available": 56,
+    "catalogOnly": 208
+  },
+  "byScript": {
+    "Latn": {
+      "total": 158,
+      "available": 36
+    },
+    "Cyrl": {
+      "total": 35,
+      "available": 7
+    },
+    "Arab": {
+      "total": 18,
+      "available": 4
+    },
+    "Ethi": {
+      "total": 2,
+      "available": 0
+    },
+    "Beng": {
+      "total": 3,
+      "available": 2
+    },
+    "Deva": {
+      "total": 15,
+      "available": 3
+    },
+    "Tibt": {
+      "total": 2,
+      "available": 0
+    },
+    "Cher": {
+      "total": 1,
+      "available": 0
+    },
+    "Cans": {
+      "total": 3,
+      "available": 0
+    },
+    "Thaa": {
+      "total": 1,
+      "available": 0
+    },
+    "Grek": {
+      "total": 1,
+      "available": 1
+    },
+    "Adlm": {
+      "total": 1,
+      "available": 0
+    },
+    "Gujr": {
+      "total": 1,
+      "available": 0
+    },
+    "Hebr": {
+      "total": 2,
+      "available": 1
+    },
+    "Armn": {
+      "total": 1,
+      "available": 0
+    },
+    "Jpan": {
+      "total": 1,
+      "available": 0
+    },
+    "Geor": {
+      "total": 1,
+      "available": 1
+    },
+    "Khmr": {
+      "total": 1,
+      "available": 0
+    },
+    "Knda": {
+      "total": 1,
+      "available": 0
+    },
+    "Kore": {
+      "total": 1,
+      "available": 0
+    },
+    "Laoo": {
+      "total": 1,
+      "available": 0
+    },
+    "Mlym": {
+      "total": 1,
+      "available": 0
+    },
+    "Mymr": {
+      "total": 1,
+      "available": 0
+    },
+    "Nkoo": {
+      "total": 1,
+      "available": 0
+    },
+    "Orya": {
+      "total": 1,
+      "available": 0
+    },
+    "Guru": {
+      "total": 1,
+      "available": 0
+    },
+    "Olck": {
+      "total": 1,
+      "available": 0
+    },
+    "Sinh": {
+      "total": 1,
+      "available": 0
+    },
+    "Syrc": {
+      "total": 1,
+      "available": 0
+    },
+    "Taml": {
+      "total": 1,
+      "available": 0
+    },
+    "Telu": {
+      "total": 1,
+      "available": 0
+    },
+    "Thai": {
+      "total": 2,
+      "available": 1
+    },
+    "Hans": {
+      "total": 1,
+      "available": 0
+    },
+    "Hant": {
+      "total": 1,
+      "available": 0
+    }
+  },
+  "available": [
+    {
+      "tag": "af",
+      "englishName": "Afrikaans",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3893
+    },
+    {
+      "tag": "ar",
+      "englishName": "Arabic",
+      "script": "Arab",
+      "direction": "rtl",
+      "layoutType": "direct",
+      "sizeBytes": 3911
+    },
+    {
+      "tag": "as",
+      "englishName": "Assamese",
+      "script": "Beng",
+      "direction": "ltr",
+      "layoutType": "complex",
+      "sizeBytes": 3672
+    },
+    {
+      "tag": "az",
+      "englishName": "Azerbaijani",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3957
+    },
+    {
+      "tag": "be",
+      "englishName": "Belarusian",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3591
+    },
+    {
+      "tag": "bg",
+      "englishName": "Bulgarian",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3486
+    },
+    {
+      "tag": "bn",
+      "englishName": "Bangla",
+      "script": "Beng",
+      "direction": "ltr",
+      "layoutType": "complex",
+      "sizeBytes": 3983
+    },
+    {
+      "tag": "ca",
+      "englishName": "Catalan",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3952
+    },
+    {
+      "tag": "cs",
+      "englishName": "Czech",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 4455
+    },
+    {
+      "tag": "cy",
+      "englishName": "Welsh",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3957
+    },
+    {
+      "tag": "da",
+      "englishName": "Danish",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3667
+    },
+    {
+      "tag": "de",
+      "englishName": "German",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3821
+    },
+    {
+      "tag": "el",
+      "englishName": "Greek",
+      "script": "Grek",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 4041
+    },
+    {
+      "tag": "en",
+      "englishName": "English",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3418
+    },
+    {
+      "tag": "en-GB",
+      "englishName": "English (UK)",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3424
+    },
+    {
+      "tag": "eo",
+      "englishName": "Esperanto",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3880
+    },
+    {
+      "tag": "es",
+      "englishName": "Spanish",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3900
+    },
+    {
+      "tag": "et",
+      "englishName": "Estonian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3821
+    },
+    {
+      "tag": "eu",
+      "englishName": "Basque",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3495
+    },
+    {
+      "tag": "fa",
+      "englishName": "Persian",
+      "script": "Arab",
+      "direction": "rtl",
+      "layoutType": "direct",
+      "sizeBytes": 3796
+    },
+    {
+      "tag": "fi",
+      "englishName": "Finnish",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3590
+    },
+    {
+      "tag": "fr",
+      "englishName": "French",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 4119
+    },
+    {
+      "tag": "ga",
+      "englishName": "Irish",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3803
+    },
+    {
+      "tag": "he",
+      "englishName": "Hebrew",
+      "script": "Hebr",
+      "direction": "rtl",
+      "layoutType": "direct",
+      "sizeBytes": 3370
+    },
+    {
+      "tag": "hi",
+      "englishName": "Hindi",
+      "script": "Deva",
+      "direction": "ltr",
+      "layoutType": "complex",
+      "sizeBytes": 3870
+    },
+    {
+      "tag": "hr",
+      "englishName": "Croatian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3744
+    },
+    {
+      "tag": "hu",
+      "englishName": "Hungarian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3875
+    },
+    {
+      "tag": "id",
+      "englishName": "Indonesian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3418
+    },
+    {
+      "tag": "is",
+      "englishName": "Icelandic",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 4052
+    },
+    {
+      "tag": "it",
+      "englishName": "Italian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3821
+    },
+    {
+      "tag": "ka",
+      "englishName": "Georgian",
+      "script": "Geor",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3928
+    },
+    {
+      "tag": "kk",
+      "englishName": "Kazakh",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 4302
+    },
+    {
+      "tag": "lt",
+      "englishName": "Lithuanian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3993
+    },
+    {
+      "tag": "lv",
+      "englishName": "Latvian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 4265
+    },
+    {
+      "tag": "mk",
+      "englishName": "Macedonian",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3500
+    },
+    {
+      "tag": "mr",
+      "englishName": "Marathi",
+      "script": "Deva",
+      "direction": "ltr",
+      "layoutType": "complex",
+      "sizeBytes": 3705
+    },
+    {
+      "tag": "ms",
+      "englishName": "Malay",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3418
+    },
+    {
+      "tag": "nb",
+      "englishName": "Norwegian Bokmål",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3667
+    },
+    {
+      "tag": "ne",
+      "englishName": "Nepali",
+      "script": "Deva",
+      "direction": "ltr",
+      "layoutType": "complex",
+      "sizeBytes": 3546
+    },
+    {
+      "tag": "nl",
+      "englishName": "Dutch",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3875
+    },
+    {
+      "tag": "pl",
+      "englishName": "Polish",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 4052
+    },
+    {
+      "tag": "ps",
+      "englishName": "Pashto",
+      "script": "Arab",
+      "direction": "rtl",
+      "layoutType": "direct",
+      "sizeBytes": 3610
+    },
+    {
+      "tag": "pt",
+      "englishName": "Portuguese",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3988
+    },
+    {
+      "tag": "ro",
+      "englishName": "Romanian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3744
+    },
+    {
+      "tag": "ru",
+      "englishName": "Russian",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3668
+    },
+    {
+      "tag": "sk",
+      "englishName": "Slovak",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 4550
+    },
+    {
+      "tag": "sl",
+      "englishName": "Slovenian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3649
+    },
+    {
+      "tag": "sq",
+      "englishName": "Albanian",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3572
+    },
+    {
+      "tag": "sr",
+      "englishName": "Serbian",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3500
+    },
+    {
+      "tag": "sv",
+      "englishName": "Swedish",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3703
+    },
+    {
+      "tag": "sw",
+      "englishName": "Swahili",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3418
+    },
+    {
+      "tag": "th",
+      "englishName": "Thai",
+      "script": "Thai",
+      "direction": "ltr",
+      "layoutType": "complex",
+      "sizeBytes": 3591
+    },
+    {
+      "tag": "tr",
+      "englishName": "Turkish",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3880
+    },
+    {
+      "tag": "uk",
+      "englishName": "Ukrainian",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 3668
+    },
+    {
+      "tag": "ur",
+      "englishName": "Urdu",
+      "script": "Arab",
+      "direction": "rtl",
+      "layoutType": "direct",
+      "sizeBytes": 3794
+    },
+    {
+      "tag": "vi",
+      "englishName": "Vietnamese",
+      "script": "Latn",
+      "direction": "ltr",
+      "layoutType": "direct",
+      "sizeBytes": 5082
+    }
+  ],
+  "catalogOnly": [
+    {
+      "tag": "aa",
+      "englishName": "Afar",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ab",
+      "englishName": "Abkhaz",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "acm",
+      "englishName": "Mesopotamian Arabic",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ady",
+      "englishName": "Adyghe",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ak",
+      "englishName": "Akan",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "am",
+      "englishName": "Amharic",
+      "script": "Ethi",
+      "direction": "ltr",
+      "reason": "syllabic script - needs dedicated validated layout"
+    },
+    {
+      "tag": "an",
+      "englishName": "Aragonese",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "apc",
+      "englishName": "Levantine Arabic",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ar-EG",
+      "englishName": "Arabic (Egypt)",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "arn",
+      "englishName": "Mapudungun",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ary",
+      "englishName": "Moroccan Arabic",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "arz",
+      "englishName": "Egyptian Arabic",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ast",
+      "englishName": "Asturian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "av",
+      "englishName": "Avar",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ay",
+      "englishName": "Aymara",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ba",
+      "englishName": "Bashkir",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "bal",
+      "englishName": "Balochi",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "bar",
+      "englishName": "Bavarian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "bem",
+      "englishName": "Bemba",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "bho",
+      "englishName": "Bhojpuri",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "bi",
+      "englishName": "Bislama",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "bm",
+      "englishName": "Bambara",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "bo",
+      "englishName": "Tibetan",
+      "script": "Tibt",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "br",
+      "englishName": "Breton",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "brx",
+      "englishName": "Bodo",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "bs",
+      "englishName": "Bosnian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "bua",
+      "englishName": "Buryat",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ce",
+      "englishName": "Chechen",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ch",
+      "englishName": "Chamorro",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "chr",
+      "englishName": "Cherokee",
+      "script": "Cher",
+      "direction": "ltr",
+      "reason": "syllabary - needs dedicated validated layout"
+    },
+    {
+      "tag": "ckb",
+      "englishName": "Central Kurdish",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "co",
+      "englishName": "Corsican",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "cr",
+      "englishName": "Cree",
+      "script": "Cans",
+      "direction": "ltr",
+      "reason": "syllabics - needs dedicated validated layout"
+    },
+    {
+      "tag": "crh",
+      "englishName": "Crimean Tatar",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "crs",
+      "englishName": "Seychellois Creole",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "cu",
+      "englishName": "Church Slavonic",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "cv",
+      "englishName": "Chuvash",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "dar",
+      "englishName": "Dargwa",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "de-CH",
+      "englishName": "German (Switzerland)",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "doi",
+      "englishName": "Dogri",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "dv",
+      "englishName": "Divehi",
+      "script": "Thaa",
+      "direction": "rtl",
+      "reason": "RTL complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "dyu",
+      "englishName": "Dyula",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "dz",
+      "englishName": "Dzongkha",
+      "script": "Tibt",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "ee",
+      "englishName": "Ewe",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ext",
+      "englishName": "Extremaduran",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ff",
+      "englishName": "Fula",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ff-Adlm",
+      "englishName": "Fula (Adlam)",
+      "script": "Adlm",
+      "direction": "rtl",
+      "reason": "RTL script - needs dedicated validated layout"
+    },
+    {
+      "tag": "fil",
+      "englishName": "Filipino",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "fj",
+      "englishName": "Fijian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "fo",
+      "englishName": "Faroese",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "frr",
+      "englishName": "Northern Frisian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "fur",
+      "englishName": "Friulian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "fy",
+      "englishName": "Western Frisian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "gag",
+      "englishName": "Gagauz",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "gd",
+      "englishName": "Scottish Gaelic",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "gil",
+      "englishName": "Gilbertese",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "gl",
+      "englishName": "Galician",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "glk",
+      "englishName": "Gilaki",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "gn",
+      "englishName": "Guarani",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "gom",
+      "englishName": "Goan Konkani",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "grt",
+      "englishName": "Garo",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "gu",
+      "englishName": "Gujarati",
+      "script": "Gujr",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "gug",
+      "englishName": "Paraguayan Guarani",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "guz",
+      "englishName": "Gusii",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "gv",
+      "englishName": "Manx",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ha",
+      "englishName": "Hausa",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "haw",
+      "englishName": "Hawaiian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "hne",
+      "englishName": "Chhattisgarhi",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ho",
+      "englishName": "Hiri Motu",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ht",
+      "englishName": "Haitian Creole",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "hy",
+      "englishName": "Armenian",
+      "script": "Armn",
+      "direction": "ltr",
+      "reason": "layout not yet authored to a verified standard"
+    },
+    {
+      "tag": "hz",
+      "englishName": "Herero",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ia",
+      "englishName": "Interlingua",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ig",
+      "englishName": "Igbo",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "inh",
+      "englishName": "Ingush",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "io",
+      "englishName": "Ido",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "iu",
+      "englishName": "Inuktitut",
+      "script": "Cans",
+      "direction": "ltr",
+      "reason": "syllabics - needs dedicated validated layout"
+    },
+    {
+      "tag": "ja",
+      "englishName": "Japanese",
+      "script": "Jpan",
+      "direction": "ltr",
+      "reason": "requires kana/kanji conversion engine"
+    },
+    {
+      "tag": "jam",
+      "englishName": "Jamaican Patois",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "jv",
+      "englishName": "Javanese",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kaa",
+      "englishName": "Karakalpak",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kam",
+      "englishName": "Kamba",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kbd",
+      "englishName": "Kabardian",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kg",
+      "englishName": "Kongo",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kha",
+      "englishName": "Khasi",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kik",
+      "englishName": "Kikuyu",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kj",
+      "englishName": "Kuanyama",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kl",
+      "englishName": "Kalaallisut",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "km",
+      "englishName": "Khmer",
+      "script": "Khmr",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "kmb",
+      "englishName": "Kimbundu",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kmr",
+      "englishName": "Northern Kurdish",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kn",
+      "englishName": "Kannada",
+      "script": "Knda",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "ko",
+      "englishName": "Korean",
+      "script": "Kore",
+      "direction": "ltr",
+      "reason": "requires Hangul syllable composition engine"
+    },
+    {
+      "tag": "kok",
+      "englishName": "Konkani",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kr",
+      "englishName": "Kanuri",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "krc",
+      "englishName": "Karachay-Balkar",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ks",
+      "englishName": "Kashmiri",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ksh",
+      "englishName": "Colognian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kum",
+      "englishName": "Kumyk",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kv",
+      "englishName": "Komi",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "kw",
+      "englishName": "Cornish",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ky",
+      "englishName": "Kyrgyz",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "la",
+      "englishName": "Latin",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "lb",
+      "englishName": "Luxembourgish",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "lez",
+      "englishName": "Lezgian",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "lg",
+      "englishName": "Ganda",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "li",
+      "englishName": "Limburgish",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "lij",
+      "englishName": "Ligurian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ln",
+      "englishName": "Lingala",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "lo",
+      "englishName": "Lao",
+      "script": "Laoo",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "lrc",
+      "englishName": "Northern Luri",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "lu",
+      "englishName": "Luba-Katanga",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "luo",
+      "englishName": "Luo",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "lus",
+      "englishName": "Mizo",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mai",
+      "englishName": "Maithili",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mdf",
+      "englishName": "Moksha",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mer",
+      "englishName": "Meru",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mg",
+      "englishName": "Malagasy",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mh",
+      "englishName": "Marshallese",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mhr",
+      "englishName": "Meadow Mari",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mi",
+      "englishName": "Māori",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ml",
+      "englishName": "Malayalam",
+      "script": "Mlym",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "mn",
+      "englishName": "Mongolian (Cyrillic)",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mni",
+      "englishName": "Meitei (Bengali)",
+      "script": "Beng",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mt",
+      "englishName": "Maltese",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mwr",
+      "englishName": "Marwari",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "my",
+      "englishName": "Burmese",
+      "script": "Mymr",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "myv",
+      "englishName": "Erzya",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "mzn",
+      "englishName": "Mazanderani",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "na",
+      "englishName": "Nauruan",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "nah",
+      "englishName": "Nahuatl",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "nap",
+      "englishName": "Neapolitan",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "nds",
+      "englishName": "Low German",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "new",
+      "englishName": "Newari",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ng",
+      "englishName": "Ndonga",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "niu",
+      "englishName": "Niuean",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "nn",
+      "englishName": "Norwegian Nynorsk",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "nqo",
+      "englishName": "N'Ko",
+      "script": "Nkoo",
+      "direction": "rtl",
+      "reason": "RTL script - needs dedicated validated layout"
+    },
+    {
+      "tag": "nr",
+      "englishName": "Southern Ndebele",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "nso",
+      "englishName": "Northern Sotho",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "nv",
+      "englishName": "Navajo",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ny",
+      "englishName": "Chichewa",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "oc",
+      "englishName": "Occitan",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "oj",
+      "englishName": "Ojibwe",
+      "script": "Cans",
+      "direction": "ltr",
+      "reason": "syllabics - needs dedicated validated layout"
+    },
+    {
+      "tag": "om",
+      "englishName": "Oromo",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "or",
+      "englishName": "Odia",
+      "script": "Orya",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "os",
+      "englishName": "Ossetic",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "pa",
+      "englishName": "Punjabi (Gurmukhi)",
+      "script": "Guru",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "pap",
+      "englishName": "Papiamento",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "pdc",
+      "englishName": "Pennsylvania German",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "prs",
+      "englishName": "Dari",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "qu",
+      "englishName": "Quechua",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "quc",
+      "englishName": "Kʼicheʼ",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "raj",
+      "englishName": "Rajasthani",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "rm",
+      "englishName": "Romansh",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "rue",
+      "englishName": "Rusyn",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "rw",
+      "englishName": "Kinyarwanda",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "sa",
+      "englishName": "Sanskrit",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "sah",
+      "englishName": "Yakut",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "sat",
+      "englishName": "Santali",
+      "script": "Olck",
+      "direction": "ltr",
+      "reason": "needs dedicated validated layout"
+    },
+    {
+      "tag": "sc",
+      "englishName": "Sardinian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "scn",
+      "englishName": "Sicilian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "sco",
+      "englishName": "Scots",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "sd",
+      "englishName": "Sindhi",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "sd-Deva",
+      "englishName": "Sindhi (Devanagari)",
+      "script": "Deva",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "se",
+      "englishName": "Northern Sami",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "si",
+      "englishName": "Sinhala",
+      "script": "Sinh",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "sm",
+      "englishName": "Samoan",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "smn",
+      "englishName": "Inari Sami",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "sn",
+      "englishName": "Shona",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "so",
+      "englishName": "Somali",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ss",
+      "englishName": "Swati",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "st",
+      "englishName": "Southern Sotho",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "su",
+      "englishName": "Sundanese",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "syr",
+      "englishName": "Syriac",
+      "script": "Syrc",
+      "direction": "rtl",
+      "reason": "RTL complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "ta",
+      "englishName": "Tamil",
+      "script": "Taml",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "te",
+      "englishName": "Telugu",
+      "script": "Telu",
+      "direction": "ltr",
+      "reason": "complex script - needs dedicated validated layout"
+    },
+    {
+      "tag": "teo",
+      "englishName": "Teso",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "tg",
+      "englishName": "Tajik",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "th-pali",
+      "englishName": "Pali (Thai)",
+      "script": "Thai",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ti",
+      "englishName": "Tigrinya",
+      "script": "Ethi",
+      "direction": "ltr",
+      "reason": "syllabic script - needs dedicated validated layout"
+    },
+    {
+      "tag": "tk",
+      "englishName": "Turkmen",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "tn",
+      "englishName": "Tswana",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "to",
+      "englishName": "Tongan",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "tpi",
+      "englishName": "Tok Pisin",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ts",
+      "englishName": "Tsonga",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "tt",
+      "englishName": "Tatar",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "tvl",
+      "englishName": "Tuvaluan",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "tw",
+      "englishName": "Twi",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ty",
+      "englishName": "Tahitian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "tyv",
+      "englishName": "Tuvan",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "udm",
+      "englishName": "Udmurt",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ug",
+      "englishName": "Uyghur",
+      "script": "Arab",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "umb",
+      "englishName": "Umbundu",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "uz",
+      "englishName": "Uzbek",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "ve",
+      "englishName": "Venda",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "vec",
+      "englishName": "Venetian",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "vo",
+      "englishName": "Volapük",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "wa",
+      "englishName": "Walloon",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "wo",
+      "englishName": "Wolof",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "xal",
+      "englishName": "Kalmyk",
+      "script": "Cyrl",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "xh",
+      "englishName": "Xhosa",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "yi",
+      "englishName": "Yiddish",
+      "script": "Hebr",
+      "direction": "rtl",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "yo",
+      "englishName": "Yoruba",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "yua",
+      "englishName": "Yucatec Maya",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    },
+    {
+      "tag": "zh-Hans",
+      "englishName": "Chinese (Simplified)",
+      "script": "Hans",
+      "direction": "ltr",
+      "reason": "requires input-method engine (candidate selection)"
+    },
+    {
+      "tag": "zh-Hant",
+      "englishName": "Chinese (Traditional)",
+      "script": "Hant",
+      "direction": "ltr",
+      "reason": "requires input-method engine (candidate selection)"
+    },
+    {
+      "tag": "zu",
+      "englishName": "Zulu",
+      "script": "Latn",
+      "direction": "ltr",
+      "reason": "layout not yet authored"
+    }
+  ]
+}

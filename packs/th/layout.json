@@ -1,0 +1,86 @@
+{
+  "cased": false,
+  "direction": "ltr",
+  "inputMethod": "direct",
+  "layers": {
+    "default": [
+      [
+        "ๆ",
+        "ไ",
+        "ำ",
+        "พ",
+        "ะ",
+        "ั",
+        "ี",
+        "ร",
+        "น",
+        "ย",
+        "บ",
+        "ล"
+      ],
+      [
+        "ฟ",
+        "ห",
+        "ก",
+        "ด",
+        "เ",
+        "้",
+        "่",
+        "า",
+        "ส",
+        "ว",
+        "ง"
+      ],
+      [
+        "ผ",
+        "ป",
+        "แ",
+        "อ",
+        "ิ",
+        "ื",
+        "ท",
+        "ม",
+        "ใ",
+        "ฝ",
+        {
+          "code": "DELETE",
+          "l": "⌫",
+          "w": 1.5
+        }
+      ],
+      [
+        {
+          "code": "SYMBOLS",
+          "l": "?123",
+          "w": 1.5
+        },
+        {
+          "code": "LANG",
+          "l": "🌐"
+        },
+        {
+          "code": "EMOJI",
+          "l": "☺"
+        },
+        ",",
+        {
+          "code": "SPACE",
+          "l": "",
+          "o": " ",
+          "w": 4
+        },
+        ".",
+        {
+          "code": "ENTER",
+          "l": "⏎",
+          "w": 1.5
+        }
+      ]
+    ]
+  },
+  "layoutType": "complex",
+  "note": "Direct Unicode entry; vowel/tone marks combine via Android rendering.",
+  "schemaVersion": 1,
+  "script": "Thai",
+  "tag": "th"
+}

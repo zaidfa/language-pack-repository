@@ -1,0 +1,36 @@
+{
+  "bytes": 3911,
+  "cased": false,
+  "direction": "rtl",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1703,
+      "name": "layout.json",
+      "sha256": "fb9aea034a37ed652b31f1aa6c3028c40ff56ced87aadb0869905420cca6aaa0"
+    },
+    {
+      "bytes": 2208,
+      "name": "symbols.json",
+      "sha256": "20ea3888e8cc233f64f8659f9236e988c298809b12ae06b60b9732c452422be3"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Arabic",
+    "native": "العربية"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Arab",
+  "sha256": "2572f52ec30d79f23ca980731558e3d9671cb1d783694ece3beb92ea217616d7",
+  "tag": "ar"
+}

@@ -1,0 +1,36 @@
+{
+  "bytes": 3957,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1761,
+      "name": "layout.json",
+      "sha256": "efd45ed06fa268c4df4f1686fe5ef78a7d1550e0cbeaf44632f951bc0bb72e66"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "f8f43cd0f692878494551399cb7d31390f2ea9c4867ebf51636fff4cd024b644"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Azerbaijani",
+    "native": "Azərbaycan"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "c6c703f47fa7dc2a9b53c97d30feaf13ec5013da57cefb77319b5a5873f71a5a",
+  "tag": "az"
+}

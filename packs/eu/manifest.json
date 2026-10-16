@@ -1,0 +1,36 @@
+{
+  "bytes": 3495,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1299,
+      "name": "layout.json",
+      "sha256": "ae015bee3c7c043ab13d3ecc35e3b5c085383612f5b784dcc6e90f8a706112aa"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "fbd0fadba64af26ea3cf98bc98bf42e6b4e306d89378998340fffa8284ecf397"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Basque",
+    "native": "Euskara"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "c2f7d190208b3a0139bbdaf0e6e3f40718d65a3fc6d0a9ee53d197daede3024d",
+  "tag": "eu"
+}

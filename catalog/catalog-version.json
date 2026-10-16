@@ -1,0 +1,11 @@
+{
+  "catalogVersion": "1.0.0",
+  "packFormat": 1,
+  "generatedAt": "2026-10-16T18:08:05.385Z",
+  "counts": {
+    "total": 264,
+    "available": 56,
+    "catalogOnly": 208
+  },
+  "note": "'available' entries have validated, downloadable packs. 'catalog-only' entries are listed but not yet packaged."
+}

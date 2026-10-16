@@ -1,0 +1,394 @@
+{
+  "af": {
+    "distinctOutputs": 92,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "ar": {
+    "distinctOutputs": 90,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "rtl",
+    "script": "Arab"
+  },
+  "as": {
+    "distinctOutputs": 87,
+    "combiningMarks": 4,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Beng"
+  },
+  "az": {
+    "distinctOutputs": 89,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "be": {
+    "distinctOutputs": 88,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Cyrl"
+  },
+  "bg": {
+    "distinctOutputs": 85,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Cyrl"
+  },
+  "bn": {
+    "distinctOutputs": 90,
+    "combiningMarks": 6,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Beng"
+  },
+  "ca": {
+    "distinctOutputs": 92,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "cs": {
+    "distinctOutputs": 97,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "cy": {
+    "distinctOutputs": 89,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "da": {
+    "distinctOutputs": 86,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "de": {
+    "distinctOutputs": 88,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "el": {
+    "distinctOutputs": 91,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Grek"
+  },
+  "en": {
+    "distinctOutputs": 82,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "en-GB": {
+    "distinctOutputs": 82,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "eo": {
+    "distinctOutputs": 88,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "es": {
+    "distinctOutputs": 89,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "et": {
+    "distinctOutputs": 88,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "eu": {
+    "distinctOutputs": 83,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "fa": {
+    "distinctOutputs": 92,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "rtl",
+    "script": "Arab"
+  },
+  "fi": {
+    "distinctOutputs": 85,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "fr": {
+    "distinctOutputs": 98,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "ga": {
+    "distinctOutputs": 87,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "he": {
+    "distinctOutputs": 83,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "rtl",
+    "script": "Hebr"
+  },
+  "hi": {
+    "distinctOutputs": 90,
+    "combiningMarks": 15,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Deva"
+  },
+  "hr": {
+    "distinctOutputs": 87,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "hu": {
+    "distinctOutputs": 91,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "id": {
+    "distinctOutputs": 82,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "is": {
+    "distinctOutputs": 91,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "it": {
+    "distinctOutputs": 88,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "ka": {
+    "distinctOutputs": 89,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Geor"
+  },
+  "kk": {
+    "distinctOutputs": 98,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Cyrl"
+  },
+  "lt": {
+    "distinctOutputs": 91,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "lv": {
+    "distinctOutputs": 93,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "mk": {
+    "distinctOutputs": 86,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Cyrl"
+  },
+  "mr": {
+    "distinctOutputs": 88,
+    "combiningMarks": 12,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Deva"
+  },
+  "ms": {
+    "distinctOutputs": 82,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "nb": {
+    "distinctOutputs": 86,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "ne": {
+    "distinctOutputs": 86,
+    "combiningMarks": 11,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Deva"
+  },
+  "nl": {
+    "distinctOutputs": 91,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "pl": {
+    "distinctOutputs": 91,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "ps": {
+    "distinctOutputs": 88,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "rtl",
+    "script": "Arab"
+  },
+  "pt": {
+    "distinctOutputs": 94,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "ro": {
+    "distinctOutputs": 87,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "ru": {
+    "distinctOutputs": 89,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Cyrl"
+  },
+  "sk": {
+    "distinctOutputs": 99,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "sl": {
+    "distinctOutputs": 85,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "sq": {
+    "distinctOutputs": 84,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "sr": {
+    "distinctOutputs": 86,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Cyrl"
+  },
+  "sv": {
+    "distinctOutputs": 88,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "sw": {
+    "distinctOutputs": 82,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "th": {
+    "distinctOutputs": 89,
+    "combiningMarks": 9,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Thai"
+  },
+  "tr": {
+    "distinctOutputs": 88,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  },
+  "uk": {
+    "distinctOutputs": 89,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Cyrl"
+  },
+  "ur": {
+    "distinctOutputs": 89,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "rtl",
+    "script": "Arab"
+  },
+  "vi": {
+    "distinctOutputs": 149,
+    "combiningMarks": 0,
+    "supplementaryCodepoints": 0,
+    "direction": "ltr",
+    "script": "Latn"
+  }
+}

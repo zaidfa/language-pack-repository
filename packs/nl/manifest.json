@@ -1,0 +1,36 @@
+{
+  "bytes": 3875,
+  "cased": true,
+  "direction": "ltr",
+  "features": {
+    "composition": false,
+    "dictionary": false,
+    "layout": true,
+    "symbols": true
+  },
+  "files": [
+    {
+      "bytes": 1679,
+      "name": "layout.json",
+      "sha256": "79d3e50bb87f9ad111c4dc0d05303b80ce2388798eb9e4a8ad0e296c17a9fb1d"
+    },
+    {
+      "bytes": 2196,
+      "name": "symbols.json",
+      "sha256": "099fded9fd50efe9833124f39a0c856f2f9b784a021e3100f70740195169de80"
+    }
+  ],
+  "inputMethod": "direct",
+  "layoutType": "direct",
+  "minAppVersion": 6,
+  "name": {
+    "english": "Dutch",
+    "native": "Nederlands"
+  },
+  "packFormat": 1,
+  "packVersion": "1.0.0",
+  "schemaVersion": 1,
+  "script": "Latn",
+  "sha256": "28c9e5903b1b5ca7c826461f7a90dc5e818a4a8c365db7cce95a613966adf8dc",
+  "tag": "nl"
+}
